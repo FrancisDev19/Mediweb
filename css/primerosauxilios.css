@@ -48,10 +48,19 @@ h5 {
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
-a {
+.card a {
     color: #252525;
+}
+
+.tags a {
+    color: #fff !important;
 }
 
 .card-header {
     background: #b40d1a;
+}
+
+.is-warning {
+    background: #b40d1a !important;
+    color: #fff !important;
 }
